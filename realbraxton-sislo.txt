@@ -1,5 +1,3 @@
-blank face lp
-
 https://codepen.io/braxtons6/pen/YzNYybX
 
     1. What is Semantic HTML? 
